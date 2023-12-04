@@ -1,0 +1,5 @@
+C:\Users\pwyni\OneDrive - Swisscom\Grundbildung\IT Projekte\Programming\C#-Projects\Trashmail-Request\src\trashmail-request\trashmail-request\bin\Release\net6.0-windows\app.publish\trashmail-request.exe
+C:\Users\pwyni\OneDrive - Swisscom\Grundbildung\IT Projekte\Programming\C#-Projects\Trashmail-Request\src\trashmail-request\trashmail-request\bin\Release\net6.0-windows\app.publish\trashmail-request.dll
+C:\Users\pwyni\OneDrive - Swisscom\Grundbildung\IT Projekte\Programming\C#-Projects\Trashmail-Request\src\trashmail-request\trashmail-request\bin\Release\net6.0-windows\app.publish\trashmail-request.deps.json
+C:\Users\pwyni\OneDrive - Swisscom\Grundbildung\IT Projekte\Programming\C#-Projects\Trashmail-Request\src\trashmail-request\trashmail-request\bin\Release\net6.0-windows\app.publish\trashmail-request.runtimeconfig.json
+C:\Users\pwyni\OneDrive - Swisscom\Grundbildung\IT Projekte\Programming\C#-Projects\Trashmail-Request\src\trashmail-request\trashmail-request\bin\Release\net6.0-windows\app.publish\trashmail-request.pdb
