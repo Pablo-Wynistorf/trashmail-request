@@ -1,5 +1,0 @@
-C:\Users\pwyni\OneDrive - Swisscom\Grundbildung\IT Projekte\Programming\C#-Projects\Trashmail-Request\trashmail-request.exe
-C:\Users\pwyni\OneDrive - Swisscom\Grundbildung\IT Projekte\Programming\C#-Projects\Trashmail-Request\trashmail-request.dll
-C:\Users\pwyni\OneDrive - Swisscom\Grundbildung\IT Projekte\Programming\C#-Projects\Trashmail-Request\trashmail-request.deps.json
-C:\Users\pwyni\OneDrive - Swisscom\Grundbildung\IT Projekte\Programming\C#-Projects\Trashmail-Request\trashmail-request.runtimeconfig.json
-C:\Users\pwyni\OneDrive - Swisscom\Grundbildung\IT Projekte\Programming\C#-Projects\Trashmail-Request\trashmail-request.pdb
