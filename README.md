@@ -5,7 +5,7 @@ This simple application is made for creatig temporary email addresses using the 
 
 1.) The app generates a random email address. 
 
-2.) Makes a api request to cloudflare.
+2.) Then it does a api request to cloudflare.
 
 3.) Cloudflare makes the email route entry on your domain. 
 
