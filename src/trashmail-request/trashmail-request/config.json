@@ -1,8 +1,8 @@
 {
-    "zoneId": "",
-    "apiKey": "",
-    "authEmail": "",
-    "emailDomain": "",
-    "forwardAddress": ""
+    "zoneId": "https://api.cloudflare.com/client/v4/zones/935195a0989bf25acfb551bb5437146b/email/routing/rules",
+    "apiKey": "f0b571472aa30879d6b6cadf59d34a0d81453",
+    "authEmail": "pl.w@bluewin.ch",
+    "emailDomain": "onedns.ch",
+    "forwardAddress": "pl.e@bluewin.ch"
   }
   

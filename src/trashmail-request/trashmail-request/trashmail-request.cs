@@ -170,7 +170,7 @@ namespace Trashmail_Request
 
         private void DeleteApiRequest(string trashmail)
         {
-            string deleteUrl = $"{apiUrl}/{trashmail}";
+            string deleteUrl = string.Format(apiUrl, zoneId) + $"/{trashmail}";
 
             using (HttpClient client = new HttpClient())
             {
@@ -193,6 +193,7 @@ namespace Trashmail_Request
                 }
             }
         }
+
 
         private string ExtractTagValue(string responseContent)
         {
